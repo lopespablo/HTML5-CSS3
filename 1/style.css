@@ -1,0 +1,27 @@
+*body {
+    width: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: darkgray;
+}
+
+body #v1 {
+    display: inline-block
+}
+
+#v1 img{
+    align-content: center;
+    align-items: center;
+}
+
+img {
+    display: inline-block;
+    border-radius: 5%;
+    margin-top: 50px;
+    align-content: center;
+    align-items: center;
+}
+
